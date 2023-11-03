@@ -9,4 +9,5 @@
     <dimen name="small">14sp</dimen>
     <dimen name="medium">16sp</dimen>
     <dimen name="high">18sp</dimen>
+    <dimen name="superHigh">25sp</dimen>
 </resources>

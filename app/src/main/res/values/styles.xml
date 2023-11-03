@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppMainToolbar" parent="Widget.Material3.Toolbar">
+        <item name="titleTextAppearance">@style/ToolbarTitleText</item>
+    </style>
+
+    <style name="ToolbarTitleText">
+        <item name="android:textColor">@color/md_theme_light_primary</item>
+        <item name="android:textSize">@dimen/superHigh</item>
+    </style>
+
+    <style name="AppMainCardView" parent="Widget.Material3.CardView.Elevated">
+
+    </style>
+
+    <style name="AppTitleCard" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:textSize">@dimen/high</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingStart">15dp</item>
+    </style>
+
+    <style name="AppBodyCard" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingStart">15dp</item>
+        <item name="android:paddingEnd">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+</resources>

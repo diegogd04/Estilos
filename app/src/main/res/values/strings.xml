@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Estilos</string>
+    <string name="title_pantalla1">Descuentos</string>
+    <string name="title_cardView">Alojamiento</string>
+    <string name="description_cardView">Accede a descuentos de hoteles, apartamentos, redidencias, hostales... y muchos más.</string>
+    <string name="title_pantalla2">AUDIO 21</string>
 </resources>
